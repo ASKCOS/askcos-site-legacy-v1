@@ -1,3 +1,7 @@
+# Nov 2026 Update
+
+We have fully migrated the application and all of its interfaces, underlying models, etc. to ASKCOS version 2. Please see the latest documentation at [askcos-docs.mit.edu](https://askcos-docs.mit.edu) for instructions on deployment, from the new askcos2_core repository. Components in their own repositories will be automatically pulled during setup based on the provided config file in the askcos2_core repo.
+
 # askcos-site
 [![askcos-base](https://img.shields.io/badge/-askcos--base-lightgray?style=flat-square)](https://github.com/ASKCOS/askcos-base)
 [![askcos-data](https://img.shields.io/badge/-askcos--data-lightgray?style=flat-square)](https://github.com/ASKCOS/askcos-data)
